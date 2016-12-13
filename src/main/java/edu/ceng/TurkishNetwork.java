@@ -4,7 +4,6 @@ package edu.ceng;
  * Helper class
  */
 class TurkishNetwork {
-
     private TurkishNetwork() {
     }
 
